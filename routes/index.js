@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/api',function(req,res){
-  res.send("Api operation for making cross application")
+  res.send("Compiler API  will come soon ...............")
 });
 
 
